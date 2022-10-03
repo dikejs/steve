@@ -1,4 +1,4 @@
-# steve 
+# E-commerce website 
 
 This a simple e-commerce website for household items, where you can order for these items and they will be delivered at your location as soon as possible.
 
